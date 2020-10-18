@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(152, 185, 194);
+}
+
+body h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2rem;
+}
+
+.results h2 {
+    margin: auto;
+    text-align: left;
+    padding-bottom: 2rem;
+}
